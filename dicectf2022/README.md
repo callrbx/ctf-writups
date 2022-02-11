@@ -1,4 +1,4 @@
-###DiceCTF 2022
+### DiceCTF 2022
 
 Writeups:
 
